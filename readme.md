@@ -16,6 +16,10 @@
 
 i got permison from zinx (the one who made eon v1 and is a friend of mine)
 
+Proof to those who dont believe:
+![image](https://github.com/user-attachments/assets/09b2f8c6-15ed-46db-a8ac-19fee09d8ef4)
+
+
 # How to use?
 Go to [Fortnite Launcher/Pages/Home.xaml.cs]
 <br>
