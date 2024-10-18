@@ -1,5 +1,6 @@
-# Based on the [Eon Launcher](https://github.com/eonfn/Launcher-V1) Tbh there is no more code from the eon launcher (execpt for the launching shit) ps:first launcher i ever made so yea it mighy be shit and it might not made a year ago btw
+### Based on the [Eon Launcher](https://github.com/eonfn/Launcher-V1) Tbh there is no more code from the eon launcher (execpt for the launching shit)
 ## features:
+
 ### -modern ui
 
 ### -downloud page
@@ -14,7 +15,7 @@
 
 ### -And alot more
 
-### -The only bug is for some reason the password text is invisible when remember me is on (settings page) I fixed twice but it keeps on breaking
+### -The only bug is for some reason the password text is invisible when remember me its on (settings page) I fixed twice but it keeps on breaking
 
 # Never remove the credits!!!
 
