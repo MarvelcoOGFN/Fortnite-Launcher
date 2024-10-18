@@ -1,19 +1,14 @@
 ### Based on the [Eon Launcher](https://github.com/eonfn/Launcher-V1) Tbh there is no more code from the eon launcher (execpt for the launching shit)
-## features:
 
-### -modern ui
+### This launcher was made over a year ago so this launcher is as is and wont receive any updates
 
-### -downloud page
-
-### -Find build and version list
-
-### -Saving stuff
-
-### -Login page
-
-### -Updated settings Page
-
-### -And alot more
+# road map:
+- [x] Modern ui
+- [x] Downloud page
+- [x] Find build and version list
+- [x] Login page
+- [x] Major Ui Enhancements
+- [x] And alot more
 
 ### -The only bug is for some reason the password text is invisible when remember me its on (settings page) I fixed twice but it keeps on breaking
 
