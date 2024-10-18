@@ -1,6 +1,6 @@
 ### Based on the [Eon Launcher](https://github.com/eonfn/Launcher-V1) Tbh there is no more code from the eon launcher (execpt for the launching shit)
 
-### This launcher was made over a year ago so this launcher is as is and wont receive any updates
+### This launcher was made over a year ago so this launcher is "as is" and wont receive any updates
 
 # road map:
 - [x] Modern ui
